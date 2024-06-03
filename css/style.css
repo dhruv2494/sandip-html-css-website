@@ -28583,7 +28583,7 @@ h2 + .tabs-custom.tabs-horizontal {
   left: 4px;
   height: 4px;
   width: 62px;
-  background: #78abf1;
+  background: #f28c20;
 }
 
 .text-divider-left {
@@ -39982,7 +39982,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-static .rd-megamenu-list > li > a:hover,
 .rd-navbar-sidebar .rd-navbar-dropdown > li > a:hover,
 .rd-navbar-sidebar .rd-megamenu-list > li > a:hover {
-  color: #78abf1;
+  color: #f28c20;
   background: transparent;
 }
 
@@ -40115,7 +40115,7 @@ html:not(.lt-ie10) .not-animated {
   position: relative;
   font: 900 13px/26px "Lato", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  color: #78abf1;
+  color: #f28c20;
   padding-bottom: 9px;
   letter-spacing: 0.1em;
 }
